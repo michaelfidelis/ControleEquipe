@@ -20,7 +20,7 @@ require_once "app/routes/RecursoRoutes.php";
 require_once "app/routes/ProjetoRoutes.php";
 require_once "app/routes/LancamentoRoutes.php";
 
-
+//Rodar aplicação ================================================
 $app->run();
  
 ?>
